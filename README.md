@@ -21,3 +21,4 @@ Maximum length that can be selected at startup is 25.
 <img src="https://i.hizliresim.com/85i5clt.png" />
 <br>
 
+[Licence](https://github.com/mehmetacisuu/PasswordGenerator/blob/main/LICENSE)
